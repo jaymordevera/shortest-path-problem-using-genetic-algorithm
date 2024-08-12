@@ -1,6 +1,6 @@
 # Shortest Path Problem using Genetic Algorithm
 
-![Genetic Algorithm Simulation](outputs\SPPGA.gif)
+![Genetic Algorithm Simulation](https://github.com/jaymordevera/shortest-path-problem-using-genetic-algorithm/blob/main/outputs/SPPGA.gif)
 
 ## Overview
 
